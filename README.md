@@ -45,7 +45,7 @@ This project demonstrates:
 (https://github.com/Sushiila/flask-cloud-deployment-secure-api/blob/ac15703f786cbc0d4ce6de34d4420b9cc6938c34/Testing%20Documentation.png)
 
 4. AI Knowledge Re-embedding Workflow
-![Re-embedding Knowledge Chunks](IMAGE_LINK_HERE)
+(https://github.com/Sushiila/flask-cloud-deployment-secure-api/blob/fa77ca16c6bf9d137b79efdf17334bfc2fb66f48/Re-embedding%20Knowledge%20Chunk.png)
 
 
 
