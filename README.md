@@ -1,58 +1,51 @@
 # Flask Cloud Deployment with Secure APIs
 
+# OUMAA AI Conversational Platform Prototype
+
 ## Objective
 
-This project demonstrates development and cloud deployment of a Flask-based web application with authentication, API endpoints, database integration, and secure session handling.
+This project presents the OUMAA prototype, a room-based conversational AI platform designed around different human needs such as self-reflection, relationship dialogue, and guided coaching.
 
-The application was deployed publicly using Render.
+The goal of this project is to demonstrate product thinking, backend architecture, AI workflow awareness, testing discipline, and secure deployment planning.
 
-## Features
+## Product Concept
 
-- User Registration
-- Secure Login Authentication
-- Session Management
-- SQLite Database Integration
-- API Endpoint Development
-- Cloud Deployment
-- JSON Response Handling
+OUMAA is designed as a calm digital space where users can choose the type of support they need.
 
-## Technologies Used
+The platform is organized into three rooms:
 
-- Python
-- Flask
-- SQLite
-- HTML Templates
-- GitHub
-- Render Cloud Platform
+- **Me Room**: private self-reflection and emotional clarity
+- **Us Room**: guided conversations between two people
+- **Coach Room**: structured coaching and personal growth support
 
-## API Endpoints
+This room-based structure makes the platform more intentional than a generic chatbot.
 
-### `/api/users`
+## Technical Focus
 
-Returns registered users in JSON format.
+This project demonstrates:
 
-### `/login`
+- Python backend concepts
+- Flask/API learning foundation
+- AI platform architecture
+- room-based user experience
+- authentication and dashboard flow
+- testing documentation
+- embeddings and knowledge chunk workflow
+- secure deployment planning
 
-Handles user authentication and session creation.
+## Screenshots
 
-### `/dashboard`
+1. OUMAA Landing Page
+[OUMAA Landing Page](IMAGE_LINK_HERE)
 
-Provides authenticated dashboard access.
+2. Room-Based Dashboard
+[OUMAA Dashboard](IMAGE_LINK_HERE)
 
-## Security Concepts Demonstrated
+3. Testing Documentation
+[Testing Documentation](IMAGE_LINK_HERE)
 
-- Password Hashing
-- Session-Based Authentication
-- Access Control
-- Secure API Exposure
-- Cloud Deployment Security Basics
+4. AI Knowledge Re-embedding Workflow
+![Re-embedding Knowledge Chunks](IMAGE_LINK_HERE)
 
-## Skills Demonstrated
 
-- Python Development
-- Flask Framework
-- API Development
-- Backend Engineering
-- Cloud Deployment
-- Authentication Handling
-- GitHub Version Control
+
