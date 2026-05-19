@@ -36,7 +36,7 @@ This project demonstrates:
 ## Screenshots
 
 1. OUMAA Landing Page
-[OUMAA Landing Page](IMAGE_LINK_HERE)
+(https://github.com/Sushiila/flask-cloud-deployment-secure-api/blob/620c480776acde72d89699c2957d8a73c6c250a0/Landing%20Page.png)
 
 2. Room-Based Dashboard
 [OUMAA Dashboard](IMAGE_LINK_HERE)
